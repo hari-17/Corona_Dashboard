@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+
+
+.map {
+    width: 50%;
+    /* margin: auto; */
+  
+	
+}
+
+.map path {
+	fill: #161625 ;
+    stroke:#036ffc ;
+    stroke-width:2px;
+    transition: fill 0.3s;
+}
+.map path:hover {
+	fill:rgba(0,102,255,0.5);
+
+}

@@ -1,2 +1,0 @@
-# Corona_Dashboard
- Project
